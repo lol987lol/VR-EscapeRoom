@@ -1,0 +1,63 @@
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd scrollinkdiffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 8.11
+newmtl phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd scrollinkdiffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl phongE3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd scrollinkdiffuse.jpg
+bump scrollnormal.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks scrollspecular.jpg
+newmtl phongE5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd candlediffuse.jpg
+bump candlenormal.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks candlespecular.jpg
+newmtl phongE6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bookfeatherdiffuse.jpg
+bump bookfeathernormal.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bookfeatherspecular.jpg
+newmtl phongE7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bookfeatherdiffuse.jpg
+bump bookfeathernormal.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bookfeatherspecular.jpg
+newmtl useBackground2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
