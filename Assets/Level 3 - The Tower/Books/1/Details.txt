@@ -1,0 +1,16 @@
+3d Polygon Model of Old Open Book
+
+Features:
+
+Geometry - Polygons  ( Faces - 1988  Vertices - 2134 ) 
+
+Available formats  Autodesk FBX,    Maya binary .mb, OBJ
+
+Diffuse and Normal Maps
+
+Rendered using Maya 2011
+
+www.animatedheaven.snappages.com
+
+
+ 
