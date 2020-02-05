@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.level0justanotherwaytonarnia.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Develop\\VR-EscapeRoom\\Project-EscapeRoomVR\\Level 0 - Just another way to Narnia\\Level 0 - Just another way to Narnia\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Level 0 - Just another way to Narnia [Testing]"
+        }
+      }
+    }
+  ]
+}
