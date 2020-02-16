@@ -26,13 +26,13 @@ A step by step tutorial how to run the current game.
 
 First of create a Unity Project.
 
-![Create project](C:\Users\Pascal Spiller\Pictures\VR-EscapeRoom - ReadMe\NewProject.JPG)
+![Create project](https://github.com/lol987lol/VR-EscapeRoom/blob/master/Files%20for%20ReadMe/NewProject.JPG)
 
 
 
 After that drag the .unity Scene "Level 0 - Just another way to Narnia" into your project
 
-![Import Level](C:\Users\Pascal Spiller\Pictures\VR-EscapeRoom - ReadMe\ImportLevel.JPG)
+![Import Level](https://github.com/lol987lol/VR-EscapeRoom/blob/master/Files%20for%20ReadMe/ImportLevel.JPG)
 
 
 
