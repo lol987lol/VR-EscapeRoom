@@ -6,7 +6,7 @@ This is a self-made VR escape room. It was designed for the HTC-Vive, but can al
 
 ## Getting Started
 
-So far you can only build the current state of the development via the Unity scene. The game should be fully functional at the beginning of august as .exe file for all Open-VR devices. Until then ... be patient :D 
+So far you can only run the first Version of the game [here](https://github.com/lol987lol/VR-EscapeRoom/releases/tag/1.1.0) or build the current state of the development via the Unity scene. The game should be fully functional at the beginning of august as .exe file for all Open-VR devices. Until then ... be patient :D 
 
 
 
@@ -16,7 +16,8 @@ To run the current state of the game you will need:
 
 * A Open-VR Headset (preferably an HTC-VIVE)
 * [Unity](https://unity3d.com/de/get-unity/download) installed on your computer
-* The .unity Scene out of the "Asset" folder
+* The full downloaded unity project
+* The .unity Scene out of the "Asset" folder (V0.4)
 
 
 
@@ -24,7 +25,7 @@ To run the current state of the game you will need:
 
 A step by step tutorial how to run the current game.
 
-First of create a Unity Project.
+First of create a Unity Project or select the downloaded project folder as a new project in the Unity-Hub.
 
 ![Create project](https://github.com/lol987lol/VR-EscapeRoom/blob/master/Files%20for%20ReadMe/NewProject.JPG)
 
@@ -43,6 +44,7 @@ Start the Game by pressing on the play button. Now your VR environment shoud sta
 ## Built With
 
 * [Unity](https://unity3d.com/de/get-unity/download)
+* [Unity-Hub](https://unity3d.com/de/get-unity/download)
 * [Visual Studio](https://visualstudio.microsoft.com/de/downloads/)
 
 
