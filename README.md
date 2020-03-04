@@ -17,7 +17,7 @@ To run the current state of the game you will need:
 * A Open-VR Headset (preferably an HTC-VIVE)
 * [Unity](https://unity3d.com/de/get-unity/download) installed on your computer
 * The full downloaded unity project
-* The .unity Scene out of the "Asset" folder (V0.4)
+* The .unity Scene out of the "Asset" folder (V0.5)
 
 
 
