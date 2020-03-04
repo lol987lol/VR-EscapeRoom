@@ -64,8 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ChainPack\Chain2D\Editor\ChainEditor.cs" />
-    <Compile Include="Assets\MHLab\StickyNotes\Scripts\Editor\StickyNoteEditor.cs" />
-    <Compile Include="Assets\MHLab\StickyNotes\Scripts\Editor\StickyNotesManagerWindow.cs" />
     <Compile Include="Assets\NatureStarterKit2\Editor\ImageEffects\AntialiasingEditor.cs" />
     <Compile Include="Assets\NatureStarterKit2\Editor\ImageEffects\BloomAndFlaresEditor.cs" />
     <Compile Include="Assets\NatureStarterKit2\Editor\ImageEffects\BloomEditor.cs" />

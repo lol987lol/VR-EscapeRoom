@@ -49,6 +49,10 @@ public class ContinueWhenAllInteracted : MonoBehaviour
             StartCoroutine(Wait());
             Destroy(GameObject.Find("DestructableBlanc"));
             WayCleared.Play();
+            CircularDrive Lock1 = GameObject.Find("dr R.001").GetComponent<CircularDrive>();
+            CircularDrive Lock2 = GameObject.Find("dr L.001").GetComponent<CircularDrive>();
+            Lock1.enabled = true;
+            Lock2.enabled = true;
         }
     }
 
