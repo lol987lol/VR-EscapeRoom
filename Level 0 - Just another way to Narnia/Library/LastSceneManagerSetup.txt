@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Level 0 - Just another way to Narnia - V0.4.unity
+- path: Assets/Level 0 - Just another way to Narnia - V0.5.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

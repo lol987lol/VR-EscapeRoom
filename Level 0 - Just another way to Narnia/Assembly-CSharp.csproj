@@ -72,10 +72,6 @@
     <Compile Include="Assets\FurnishedCabin\Scripts\MoveableObject.cs" />
     <Compile Include="Assets\FurnishedCabin\Scripts\MoveObjectController.cs" />
     <Compile Include="Assets\Light_switch.cs" />
-    <Compile Include="Assets\MHLab\StickyNotes\Scripts\StickyNote.cs" />
-    <Compile Include="Assets\MHLab\StickyNotes\Scripts\StickyNoteAdvanced.cs" />
-    <Compile Include="Assets\MHLab\StickyNotes\Scripts\StickyNotesManager.cs" />
-    <Compile Include="Assets\MHLab\StickyNotes\Scripts\StickyNoteTag.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
