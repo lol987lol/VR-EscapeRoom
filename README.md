@@ -52,7 +52,7 @@ Start the Game by pressing on the play button. Now your VR environment shoud sta
 ## Greetings
 
 * **Pille** - *Best Band-Member ever!* - [His GitHub](https://github.com/papauorg)
-* **Andi** - *Checkout his Pubr-repository :D its the best of the best* - [His GitHub](https://github.com/awaescher)
+* **Andi** - *Checkout his pu-br and RepoZ repository :D its the best of the best* - [His GitHub](https://github.com/awaescher)
 
 ## Authors
 
