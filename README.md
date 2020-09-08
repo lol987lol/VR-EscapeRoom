@@ -6,7 +6,7 @@ This is a self-made VR escape room. It was designed for the HTC-Vive, but can al
 
 ## Getting Started
 
-So far you can only run the first Version of the game [here](https://github.com/lol987lol/VR-EscapeRoom/releases) or build the current state of the development via the Unity scene. The game should be fully functional at the beginning of august as .exe file for all Open-VR devices. Until then ... be patient :D 
+So far you can  run the first (current) Version of the game [here](https://github.com/lol987lol/VR-EscapeRoom/releases) with all OPEN-VR devices or build the old state of the development via the Unity scene. The repository should contain the full functional game soon. Until then ... be patient :D 
 
 
 
